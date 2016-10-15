@@ -4,7 +4,6 @@
 //find number that comes up most / highest occurrence
 
 import java.util.Arrays;
-
 class IntArray{
     public static void main(String[] args){
        	int ARR_Len = 15;
